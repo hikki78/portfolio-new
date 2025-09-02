@@ -18,32 +18,32 @@ const contactCards = [
   {
     title: "Twitter",
     icon: Twitter,
-    value: "@HikkiScript",
-    link: "https://x.com/HikkiScript",
+    value: "@hikki78",
+    link: "https://x.com/hikki_78",
     color: "bg-blue-500/10 dark:bg-blue-500/20",
     textColor: "text-blue-500 dark:text-blue-400"
   },
   {
     title: "YouTube",
     icon: Youtube,
-    value: "@HikkiScript",
-    link: "https://youtube.com/@HikkiScript",
+    value: "@Hikki78",
+    link: "https://www.youtube.com/@hikki_78",
     color: "bg-red-500/10 dark:bg-red-500/20",
     textColor: "text-red-500 dark:text-red-400"
   },
   {
     title: "Instagram",
     icon: Instagram,
-    value: "@HikkiScript",
-    link: "https://instagram.com/HikkiScript",
+    value: "@hikki_78",
+    link: "https://www.instagram.com/hikki_78/",
     color: "bg-pink-500/10 dark:bg-pink-500/20",
     textColor: "text-pink-500 dark:text-pink-400"
   },
   {
-    title: "Calendar",
+    title: "Cal.com",
     icon: Calendar,
     value: "Schedule a call",
-    link: "https://cal.com/HikkiScript",
+    link: "https://cal.com/hikki78/quick-meet",
     color: "bg-blue-500/10 dark:bg-blue-500/20",
     textColor: "text-blue-500 dark:text-blue-400"
   },
