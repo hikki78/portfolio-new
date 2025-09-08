@@ -52,13 +52,6 @@ export default function Home() {
         </motion.div>
       </section>
 
-      <section className="py-8 md:py-12">
-        <h2 className="mb-6 md:mb-8 text-center text-2xl md:text-3xl font-bold px-4">Tech Stack</h2>
-        <div className="px-4">
-          <TechStack />
-        </div>
-      </section>
-
       <AboutPreview />
 
       <section className="py-8 md:py-12">
